@@ -15,7 +15,7 @@
 2. Установите Git: [https://git-scm.com/downloads](https://git-scm.com/downloads).
 3. Склонируйте проект с GitHub:
 ```bash
-git clone 
+git clone https://github.com/Yukiro-Proseko/Main_P.git
 ```
 4. Перейдите в директорию проекта
 
